@@ -34,8 +34,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/jean-io/moncycle.app/archive/2eaf8d5765423276f2f16816fb62218f6b311555.zip"
-        sha256 = "a193698c38d3d22eacbd41f9c8a1c9253748469571711c7781868521bf678da7"
+        url = "https://github.com/Limezy/moncycle.app/archive/450dee9938170edaa9863789e16888bb33173696.zip"
+        sha256 = "8ee5998f5c1f599a6fce47eddb3e4c595b0cb0b8a89936825ad67dc8ee2bf429"
 
     [resources.system_user]
 
